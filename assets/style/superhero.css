@@ -1,0 +1,13 @@
+.heroes {
+    border: black solid 2px;
+    background-color: rgba(250, 250, 250, 0.333);
+    font-size: 18px;
+    width: 50%;
+    padding: 3%;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+
+img {
+    padding: 5%;
+}
